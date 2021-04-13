@@ -49,7 +49,7 @@ This is a Memory Game created with Javascript
 To get a local copy up and running follow these simple steps:
 
 1. Open your terminal and cd where you want to store the project
-2. Run the following command - git clone git@github.com:Fanger53/restaurant-webpack.git
+2. Run the following command - git clone https://github.com/Fanger53/memory-game-JS.git
 3. Cd into the directory - cd memory-game-Js
 4. Open the live server on your VScode
 
