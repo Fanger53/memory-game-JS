@@ -18,9 +18,9 @@
 
 
 
-## 👩🏼‍💻 About My Restaurant Page
+## 👩🏼‍💻 About Memory Game
 
-This is a restaurant page that was created with HTML and JavasCript, The HTML just contains in the body a div with an id= " content" and the whole content of the page is made with JavasCript. This project was created to learn about modularized code and how to work with modules using webpack.
+This is a Memory Game created with Javascript
 
 
 <img width="600" alt="memory game" src="https://user-images.githubusercontent.com/31552010/114497937-c08b3a80-9be8-11eb-847d-8531a5c78d6a.png" align="center">
@@ -32,14 +32,13 @@ This is a restaurant page that was created with HTML and JavasCript, The HTML ju
 
 ## 🔴 Live Demo:
 
-[Restaurant Page](https://raw.githack.com/Fanger53/restaurant-webpack/features/dist/index.html)
+[Memory Game](https://raw.githack.com/Fanger53/memory-game-JS/master/index.html)
 
 ## 🔧 Built with
 
 - HTML
 - JavaScript
-- Web Pack 
-- Linters
+- Css
 - VS code
 
 
@@ -51,7 +50,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Open your terminal and cd where you want to store the project
 2. Run the following command - git clone git@github.com:Fanger53/restaurant-webpack.git
-3. Cd into the directory - cd restaurant-webpack
+3. Cd into the directory - cd memory-game-Js
 4. Open the live server on your VScode
 
 
