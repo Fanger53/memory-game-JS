@@ -1,4 +1,4 @@
-<h1 align="center">Restaurant Page: Maita Restaurant </h1>
+<h1 align="center">Memory Game </h1>
 
 <p align="center">
   
