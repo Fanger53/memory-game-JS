@@ -24,6 +24,7 @@ This is a Memory Game created with Javascript
 
 
 <img width="600" alt="memory game" src="https://user-images.githubusercontent.com/31552010/114497937-c08b3a80-9be8-11eb-847d-8531a5c78d6a.png" align="center">
+<img width="600" alt="memory game" src="https://user-images.githubusercontent.com/31552010/117100092-7a814c80-ad38-11eb-9cd8-dcde9e3cfcd6.png">
 
 
 
@@ -32,7 +33,7 @@ This is a Memory Game created with Javascript
 
 ## 🔴 Live Demo:
 
-[Memory Game](https://raw.githack.com/Fanger53/memory-game-JS/master/index.html)
+[Memory Game](https://raw.githack.com/Fanger53/memory-game-JS/master/dist/index.html)
 
 ## 🔧 Built with
 
