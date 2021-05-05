@@ -1,3 +1,5 @@
+import './style.scss';
+
 document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
@@ -63,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
       let card = document.createElement('img');
       card.setAttribute('src','./assets/images/blank.png');
       card.setAttribute('data-id', i);
-      card.addEventListener('click', flipcard);
+      card.addEventListener('click', flipCard);
       grid.appendChild(card);
     }
   }
@@ -100,12 +102,12 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
   // flip card
-  function flipcard(){
+  function flipCard(){
     let cardId = this.getAttribute('data-id');
     cardsChosen.push(cardArray[cardId].name);
     cardsChosenId.push(cardId);
     this.setAttribute('src', cardArray[cardId].img);
-    if (cardsChosen.length == 2) {
+    if (cardsChosen.length === 2) {
       setTimeout(checkForMatch, 500)
     }
   }
